@@ -7,6 +7,10 @@ C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\AlunosApi.runtimecon
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\AlunosApi.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\AlunosApi.pdb
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Humanizer.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -14,6 +18,8 @@ C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.EntityFram
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -21,7 +27,6 @@ C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.IdentityMo
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
