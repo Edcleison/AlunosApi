@@ -1,21 +1,25 @@
 ﻿using AlunosApi.Models;
 using AlunosApi.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace AlunosApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     //[Produces("application/json")]
     public class AlunosController : ControllerBase
     {
-        private IAlunoService _alunoService;
+        private readonly AlunosService _alunoService;
 
-        public AlunosController(IAlunoService alunoService)
+        public AlunosController(AlunosService alunoService)
         {
             _alunoService = alunoService;
         }
