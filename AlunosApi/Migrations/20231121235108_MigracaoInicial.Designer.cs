@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AlunosApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20231111015556_InicialIdentity")]
-    partial class InicialIdentity
+    [Migration("20231121235108_MigracaoInicial")]
+    partial class MigracaoInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

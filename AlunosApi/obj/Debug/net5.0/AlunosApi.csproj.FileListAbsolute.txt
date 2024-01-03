@@ -68,3 +68,4 @@ C:\Curso\Curso Web API\AlunosApi\AlunosApi\obj\Debug\net5.0\refint\AlunosApi.dll
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\obj\Debug\net5.0\AlunosApi.pdb
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\obj\Debug\net5.0\AlunosApi.genruntimeconfig.cache
 C:\Curso\Curso Web API\AlunosApi\AlunosApi\obj\Debug\net5.0\ref\AlunosApi.dll
+C:\Curso\Curso Web API\AlunosApi\AlunosApi\obj\Debug\net5.0\AlunosApi.sourcelink.json
